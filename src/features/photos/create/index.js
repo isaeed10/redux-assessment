@@ -4,7 +4,7 @@ import { useState } from "react";
 import { useDispatch } from "react-redux";
 
 // Task 3: Import the `addPhoto()` action creator from the photos slice
-import { addPhoto } from "/Users/elkhalifa/Desktop/redux-assessment/src/features/photos/photos.slice.js";
+import { addPhoto } from "../../photos/photos.slice.js";
 
 import "./create.css";
 
